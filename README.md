@@ -25,7 +25,6 @@ Mindset   : Break • Learn • Secure
 Ye **neat info box** banata hai.
 
 ```md
-## 🧠 About Me
 ```
 | Key | Details |
 |----|--------|
@@ -34,7 +33,7 @@ Ye **neat info box** banata hai.
 | 🔐 Role | Ethical Hacker |
 | 🎯 Focus | Pentesting, OSINT |
 | 🧠 Mindset | Break • Learn • Secure |
-```
+
 
 <h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
