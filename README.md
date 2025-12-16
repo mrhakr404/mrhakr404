@@ -1,7 +1,7 @@
 <p align="center">
   <img src="asd.png" width="700">
 </p>
-
+<h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
 
 ## 🧠 About Me
@@ -35,7 +35,6 @@ Ye **neat info box** banata hai.
 | 🧠 Mindset | Break • Learn • Secure |
 
 
-<h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
 <h2 align="center">🧠 About Me</h2>
 <h3> ⁌ Name : Adeel Kashif Ranjha</h3>
