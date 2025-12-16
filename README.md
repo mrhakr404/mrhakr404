@@ -2,6 +2,27 @@
   <img src="asd.png" width="700">
 </p>
 
+<h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
+
+
+
+<h2 align="center">🧠 About Me</h2>
+
+<h3 align="center">
+Name : Adeel Kashif Ranjha
+Alias : mrhakr404
+Role : Ethical Hacker / Cyber Security Learner
+Focus : Pentesting, OSINT, Malware Analysis (Learning)
+Mindset : Break • Learn • Secure
+</h3>
+●  🔐 Passionate about finding vulnerabilities before real hackers do
+
+●  🎯 Active on TryHackMe / CTFs / Labs
+
+● 🐧 Linux lover (Kali / Ubuntu)
+
+● 🧪 Building tools for educational & ethical purposes only
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.hakr404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeel-ranjha-186640315) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrhakr404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeelkashifranjha@gmail.com) 
 
@@ -14,7 +35,12 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
+🧪 Featured Projects
+Project	Description
+🔍 OSINT Toolkit	Username, email & metadata recon
+🐍 Python Logger	Activity monitoring (Educational)
+🤖 Instagram Bot	Automation & command handling
+🌐 Bug Hunting Tool	Recon + JS analysis
 
 
 # 📊 GitHub Stats:
