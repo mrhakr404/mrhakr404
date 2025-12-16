@@ -14,6 +14,27 @@ Focus     : Pentesting, OSINT, Malware Analysis
 Mindset   : Break • Learn • Secure
 ```
 
+🔹 Result:  
+➡️ Black box  
+➡️ Monospace font  
+➡️ Hacker terminal look 💀
+
+---
+
+## ✅ Method 2: Table Box (Clean & Professional 🔥)
+Ye **neat info box** banata hai.
+
+```md
+## 🧠 About Me
+
+| Key | Details |
+|----|--------|
+| 👤 Name | Adeel Kashif Ranjha |
+| 🆔 Alias | mrhakr404 |
+| 🔐 Role | Ethical Hacker |
+| 🎯 Focus | Pentesting, OSINT |
+| 🧠 Mindset | Break • Learn • Secure |
+
 
 <h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
