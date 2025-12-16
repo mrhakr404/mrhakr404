@@ -2,6 +2,19 @@
   <img src="asd.png" width="700">
 </p>
 
+
+
+## 🧠 About Me
+
+```txt
+Name      : Adeel Kashif Ranjha
+Alias     : mrhakr404
+Role      : Ethical Hacker / Cyber Security Learner
+Focus     : Pentesting, OSINT, Malware Analysis
+Mindset   : Break • Learn • Secure
+```
+
+
 <h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
 <h2 align="center">🧠 About Me</h2>
