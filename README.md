@@ -26,7 +26,7 @@ Ye **neat info box** banata hai.
 
 ```md
 ## 🧠 About Me
-
+```
 | Key | Details |
 |----|--------|
 | 👤 Name | Adeel Kashif Ranjha |
@@ -34,7 +34,7 @@ Ye **neat info box** banata hai.
 | 🔐 Role | Ethical Hacker |
 | 🎯 Focus | Pentesting, OSINT |
 | 🧠 Mindset | Break • Learn • Secure |
-
+```
 
 <h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
