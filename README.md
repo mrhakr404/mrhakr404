@@ -5,11 +5,11 @@
 <h2 align="center">⚠️ Ethical Hacker | Cyber Security ⚠️</h2>
 
 <h2 align="center">🧠 About Me</h2>
-<h3 align="center">Name : Adeel Kashif Ranjha</h3>
-<h3 align="center">Alias : mrhakr404</h3>
-<h3 align="center">Role : Ethical Hacker / Cyber Security Learner</h3>
-<h3 align="center">Focus : Pentesting, OSINT, Malware Analysis (Learning)</h3>
-<h3 align="center">Mindset : Break • Learn • Secure</h3>
+<h3> ⁌ Name : Adeel Kashif Ranjha</h3>
+<h3> ⁌ Alias : mrhakr404</h3>
+<h3> ⁌ Role : Ethical Hacker / Cyber Security Learner</h3>
+<h3> ⁌ Focus : Pentesting, OSINT, Malware Analysis (Learning)</h3>
+<h3> ⁌ Mindset : Break • Learn • Secure</h3>
 
 ●  🔐 Passionate about finding vulnerabilities before real hackers do
 
