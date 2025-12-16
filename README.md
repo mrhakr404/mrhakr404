@@ -20,12 +20,6 @@ Mindset   : Break • Learn • Secure
 ➡️ Hacker terminal look 💀
 
 ---
-
-## ✅ Method 2: Table Box (Clean & Professional 🔥)
-Ye **neat info box** banata hai.
-
-```md
-```
 | Key | Details |
 |----|--------|
 | 👤 Name | Adeel Kashif Ranjha |
@@ -35,21 +29,13 @@ Ye **neat info box** banata hai.
 | 🧠 Mindset | Break • Learn • Secure |
 
 
+|●  🔐 Passionate about finding vulnerabilities before real hackers do| 
 
-<h2 align="center">🧠 About Me</h2>
-<h3> ⁌ Name : Adeel Kashif Ranjha</h3>
-<h3> ⁌ Alias : mrhakr404</h3>
-<h3> ⁌ Role : Ethical Hacker / Cyber Security Learner</h3>
-<h3> ⁌ Focus : Pentesting, OSINT, Malware Analysis (Learning)</h3>
-<h3> ⁌ Mindset : Break • Learn • Secure</h3>
+|●  🎯 Active on TryHackMe / CTFs / Labs|
 
-●  🔐 Passionate about finding vulnerabilities before real hackers do
+|● 🐧 Linux User (Kali / Ubuntu)|
 
-●  🎯 Active on TryHackMe / CTFs / Labs
-
-● 🐧 Linux lover (Kali / Ubuntu)
-
-● 🧪 Building tools for educational & ethical purposes only
+|● 🧪 Building tools for educational & ethical purposes only|
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.hakr404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeel-ranjha-186640315) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrhakr404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeelkashifranjha@gmail.com) 
